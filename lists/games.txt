@@ -1,32 +1,35 @@
 1: Dark souls: Prepare to Die edition
 2: Undertale
-3: Dungeon Defenders
-4: Pokemon Red/Blue/Yellow
-5: The Binding of Isaac: Rebirth
+3: Pokemon Red/Blue/Yellow
+4: The Binding of Isaac: Rebirth
+5: Ori and the Blind Forest
 6: Shovel Knight
-7: Ori and the Blind Forest
-8: Witcher 3
-9: Portal 2
-10: Pokemon Sapphire/Ruby/Emerald
-11: The Talos Principle
-12: Mirror's Edge
-13: Portal
-14: Shantae and the Pirate's Curse
-15: Shantae: Risky's Revenge
-16: Stardew Valley
-17: Styx: Master of Shadows
-18: Trine 2
-19: The Witness
-20: Magicka
-21: Dark souls II: Scholar of the First Sin
-22: Dark souls III
-23: Borderlands 2
-24: Cloudbuilt
-25: Counter-Strike: Global Offensive
-26: World of Warcraft
-27: Factorio
-28: Middle-earth: Shadow of Mordor
-29: Dishonored
-30: Assassin's Creed Revelations
-31: Assassin's Creed 2
-32: Assassin's Creed IV Black Flag
+7: Dungeon Defenders
+8: Portal 2
+9: Dark souls III
+10: Rayman 3: Hoodlum Havoc
+11: Witcher 3
+12: Pokemon Sapphire/Ruby/Emerald
+13: Rayman 2: The Great Escape
+14: The Talos Principle
+15: Dark souls II: Scholar of the First Sin
+16: Assassin's Creed Revelations
+17: Magicka
+18: Mirror's Edge
+19: Portal
+20: Shantae and the Pirate's Curse
+21: Shantae: Risky's Revenge
+22: Stardew Valley
+23: Styx: Master of Shadows
+24: Trine 2
+25: The Witness
+26: Borderlands 2
+27: Cloudbuilt
+28: Counter-Strike: Global Offensive
+29: World of Warcraft
+30: Factorio
+31: Middle-earth: Shadow of Mordor
+32: Dishonored
+33: Assassin's Creed 2
+34: Assassin's Creed IV Black Flag
+35: Starbound
